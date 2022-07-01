@@ -1,0 +1,38 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "lthc.omn:items/essences/ignitio_essence"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [22.5, 0, 0],
+			"translation": [-6, 8, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [22.5, 0, 0],
+			"translation": [-6, 8, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [-9, 8.25, 0],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9, 8.25, 0],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"ground": {
+			"rotation": [-60, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.9, 0.9, 0.75]
+		},
+		"head": {
+			"translation": [0, 15.5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [1.5, 1.5, 0]
+		}
+	}
+}

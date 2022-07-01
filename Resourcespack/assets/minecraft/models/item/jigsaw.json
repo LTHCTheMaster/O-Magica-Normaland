@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/jigsaw",
+	"overrides": [
+		{"predicate":{"custom_model_data":170000},"model":"lthc.omn:items/essences/aqua_essence"},
+		{"predicate":{"custom_model_data":170001},"model":"lthc.omn:items/essences/ignitio_essence"}
+	]
+}
