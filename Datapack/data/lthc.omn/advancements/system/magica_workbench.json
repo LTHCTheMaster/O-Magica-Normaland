@@ -1,0 +1,17 @@
+{
+    "rewards": {
+      "function": "lthc.omn:core/foreground/entities/player/magica_workbench",
+      "loot": [
+        "lthc.omn:i/blocks/magica_workbench"
+      ]
+    },
+    "criteria": {
+      "has_the_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lthc.omn:magica_workbench"
+        }
+      }
+    }
+  }
+  

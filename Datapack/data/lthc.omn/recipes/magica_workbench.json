@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      "sss",
+      "plp",
+      "ttt"
+    ],
+    "key": {
+      "p": {
+        "tag": "planks"
+      },
+      "t": {
+        "item": "minecraft:stone"
+      },
+      "l": {
+        "tag": "logs"
+      },
+      "s": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book",
+      "count": 1
+    }
+  }
