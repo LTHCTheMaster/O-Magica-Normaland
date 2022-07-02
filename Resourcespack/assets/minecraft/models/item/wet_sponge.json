@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wet_sponge",
+	"overrides": [
+		{"predicate":{"custom_model_data":170000},"model":"lthc.omn:blocks_placed/workbenches/magica_workbench"}
+	]
+}

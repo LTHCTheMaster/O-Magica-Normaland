@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/dropper",
+	"overrides": [
+		{"predicate":{"custom_model_data":170000},"model":"lthc.omn:blocks_placeable/workbenches/magica_workbench"}
+	]
+}
