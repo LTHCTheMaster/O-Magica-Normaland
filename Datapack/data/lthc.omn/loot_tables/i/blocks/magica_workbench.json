@@ -1,0 +1,30 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls": 0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:dropper",
+					"functions": [
+						{
+							"function": "minecraft:copy_nbt",
+							"source": {
+								"type": "minecraft:storage",
+								"source": "lthc.advancenergy:omn"
+							},
+							"ops": [
+								{
+									"source": "REGISTRY.Blocks.170000.tag",
+									"target": "{}",
+									"op": "merge"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
