@@ -1,0 +1,11 @@
+{
+    "condition": "inverted",
+    "term": {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "tag": "lthc.omn:dprc/custom_block_base_block"
+            }
+        }
+    }
+}
